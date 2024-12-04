@@ -1,0 +1,22 @@
+[
+    {
+        "pergunta": "Qual é o menor país do mundo?",
+        "opcoes": ["A) Mônaco", "B) Vaticano", "C) Liechtenstein", "D) Malta", "E) Andorra"],
+        "resposta": "B"
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "opcoes": ["A) Abraham Lincoln", "B) Thomas Jefferson", "C) George Washington", "D) John Adams", "E) Benjamin Franklin"],
+        "resposta": "C"
+    },
+    {
+        "pergunta": "Quantos elementos tem a tabela periódica atualmente (2023)?",
+        "opcoes": ["A) 112", "B) 118", "C) 120", "D) 115", "E) 119"],
+        "resposta": "B"
+    },
+    {
+        "pergunta": "Qual é a montanha mais alta do mundo?",
+        "opcoes": ["A) K2", "B) Kilimanjaro", "C) Monte Everest", "D) Mont Blanc", "E) Aconcágua"],
+        "resposta": "C"
+    }
+]

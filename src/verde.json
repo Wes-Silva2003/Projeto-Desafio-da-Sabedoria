@@ -1,0 +1,161 @@
+{
+    "category": "Verde",
+    "questions": [
+      {
+        "question": "Qual é a capital do Brasil?",
+        "options": ["São Paulo", "Brasília", "Rio de Janeiro", "Belo Horizonte", "Porto Alegre"],
+        "correctAnswer": "Brasília"
+      },
+      {
+        "question": "Quem escreveu Dom Casmurro?",
+        "options": ["Jorge Amado", "Machado de Assis", "Clarice Lispector", "Carlos Drummond de Andrade", "Graciliano Ramos"],
+        "correctAnswer": "Machado de Assis"
+      },
+      {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "options": ["Terra", "Vênus", "Júpiter", "Marte", "Saturno"],
+        "correctAnswer": "Júpiter"
+      },
+      {
+        "question": "Qual o nome da moeda oficial dos Estados Unidos?",
+        "options": ["Peso", "Euro", "Dólar", "Libra", "Real"],
+        "correctAnswer": "Dólar"
+      },
+      {
+        "question": "Quantos estados existem no Brasil?",
+        "options": [23, 25, 26, 27, 28],
+        "correctAnswer": 26
+      },
+      {
+        "question": "Quem pintou a Mona Lisa?",
+        "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent Van Gogh", "Michelangelo", "Salvador Dalí"],
+        "correctAnswer": "Leonardo da Vinci"
+      },
+      {
+        "question": "O que é a fotossíntese?",
+        "options": [
+          "O processo de respiração das plantas",
+          "A maneira como as plantas crescem",
+          "O processo de digestão nas plantas",
+          "O processo pelo qual as plantas produzem seu próprio alimento usando luz",
+          "O processo de absorção de água pelas raízes"
+        ],
+        "correctAnswer": "O processo pelo qual as plantas produzem seu próprio alimento usando luz"
+      },
+      {
+        "question": "Qual é o oceano que banha a costa leste dos Estados Unidos?",
+        "options": ["Oceano Índico", "Oceano Atlântico", "Oceano Pacífico", "Oceano Ártico", "Oceano Antártico"],
+        "correctAnswer": "Oceano Atlântico"
+      },
+      {
+        "question": "Quem foi o primeiro homem a pisar na Lua?",
+        "options": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard", "John Glenn"],
+        "correctAnswer": "Neil Armstrong"
+      },
+      {
+        "question": "Qual é o nome do famoso rato da Disney?",
+        "options": ["Tom", "Jerry", "Mickey", "Pato Donald", "Scooby-Doo"],
+        "correctAnswer": "Mickey"
+      },
+      {
+        "question": "Em que continente está o Egito?",
+        "options": ["Ásia", "Europa", "América do Norte", "África", "Oceania"],
+        "correctAnswer": "África"
+      },
+      {
+        "question": "Qual é o símbolo químico do oxigênio?",
+        "options": ["O", "O2", "O3", "X", "Oxy"],
+        "correctAnswer": "O"
+      },
+      {
+        "question": "Quantos continentes existem no mundo?",
+        "options": ["5", "6", "7", "8", "9"],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "Qual é o nome do maior rio do mundo?",
+        "options": ["Amazonas", "Nilo", "Mississippi", "Yangtzé", "Ganges"],
+        "correctAnswer": "Amazonas"
+      },
+      {
+        "question": "Qual é o nome do país onde fica a Torre Eiffel?",
+        "options": ["Alemanha", "França", "Itália", "Espanha", "Reino Unido"],
+        "correctAnswer": "França"
+      },
+      {
+        "question": "Quem foi o primeiro presidente do Brasil?",
+        "options": ["Juscelino Kubitschek", "Getúlio Vargas", "Marechal Deodoro da Fonseca", "Tancredo Neves", "João Goulart"],
+        "correctAnswer": "Marechal Deodoro da Fonseca"
+      },
+      {
+        "question": "Qual é a principal fonte de energia para o Sol?",
+        "options": ["Energia nuclear", "Energia solar", "Energia elétrica", "Energia térmica", "Energia eólica"],
+        "correctAnswer": "Energia nuclear"
+      },
+      {
+        "question": "O que é um 'quadrilátero'?",
+        "options": ["Uma figura com 3 lados", "Uma figura com 4 lados", "Uma figura com 5 lados", "Uma figura com 6 lados", "Uma figura com 8 lados"],
+        "correctAnswer": "Uma figura com 4 lados"
+      },
+      {
+        "question": "Em qual país nasceu o pintor Pablo Picasso?",
+        "options": ["França", "Itália", "Espanha", "Portugal", "Alemanha"],
+        "correctAnswer": "Espanha"
+      },
+      {
+        "question": "Qual é o animal mais rápido do mundo?",
+        "options": ["Leão", "Guepardo", "Águia", "Cavalo", "Golfinho"],
+        "correctAnswer": "Guepardo"
+      },
+      {
+        "question": "Qual é o nome do presidente atual (2024) dos Estados Unidos?",
+        "options": ["Donald Trump", "Joe Biden", "Barack Obama", "George Bush", "Bill Clinton"],
+        "correctAnswer": "Joe Biden"
+      },
+      {
+        "question": "O que é a água no estado líquido?",
+        "options": ["H2O", "CO2", "O2", "H2", "H2SO4"],
+        "correctAnswer": "H2O"
+      },
+      {
+        "question": "Qual é a cor da bandeira do Brasil?",
+        "options": ["Azul e branco", "Verde e amarelo", "Vermelho e preto", "Azul e verde", "Preto e branco"],
+        "correctAnswer": "Verde e amarelo"
+      },
+      {
+        "question": "Qual é a unidade de medida de temperatura no sistema Celsius?",
+        "options": ["Kelvin", "Grau Fahrenheit", "Metro", "Litro", "Grau Celsius"],
+        "correctAnswer": "Grau Celsius"
+      },
+      {
+        "question": "O que é um 'triângulo'?",
+        "options": ["Uma figura com 3 lados", "Uma figura com 4 lados", "Uma figura com 5 lados", "Uma figura com 6 lados", "Uma figura com 8 lados"],
+        "correctAnswer": "Uma figura com 3 lados"
+      },
+      {
+        "question": "Qual é a cor da pedra preciosa chamada esmeralda?",
+        "options": ["Azul", "Verde", "Vermelho", "Amarelo", "Preto"],
+        "correctAnswer": "Verde"
+      },
+      {
+        "question": "Quantas pernas tem uma aranha?",
+        "options": [6, 8, 10, 4, 12],
+        "correctAnswer": 8
+      },
+      {
+        "question": "Quem é o criador do famoso personagem de quadrinhos, o Super-Homem (ou Superman)?",
+        "options": ["Walt Disney", "Bob Kane", "Joe Shuster", "Stan Lee", "Charles Schulz"],
+        "correctAnswer": "Joe Shuster"
+      },
+      {
+        "question": "Qual é o maior continente do mundo?",
+        "options": ["África", "Europa", "Ásia", "América", "Oceania"],
+        "correctAnswer": "Ásia"
+      },
+      {
+        "question": "Qual é o principal gás encontrado na atmosfera da Terra?",
+        "options": ["Oxigênio", "Dióxido de carbono", "Nitrogênio", "Hélio", "Metano"],
+        "correctAnswer": "Nitrogênio"
+      }
+    ]
+  }

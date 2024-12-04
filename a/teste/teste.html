@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desafio da Sabedoria</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Desafio da Sabedoria</h1>
+
+  <!-- Controle de número de jogadores -->
+  <div id="controle-jogadores">
+    <label for="num-jogadores">Quantos jogadores irão jogar?</label>
+    <input type="number" id="num-jogadores" min="2" max="4" value="4">
+    <button id="configurar-jogadores">Configurar Jogadores</button>
+  </div>
+
+  <!-- Tabuleiro -->
+  <div id="tabuleiro">
+    <!-- As casas do tabuleiro serão geradas dinamicamente pelo JavaScript -->
+  </div>
+
+  <!-- Controle do Jogo -->
+  <div id="controle">
+    <button id="iniciar" style="display:none;">Iniciar Jogo</button>
+    <div id="roleta">
+      <button id="girar" style="display:none;">Girar Roleta</button>
+      <div id="resultado-roleta"></div>
+    </div>
+    <div id="pergunta" style="display:none;">
+      <p id="texto-pergunta"></p>
+      <div id="alternativas">
+        <!-- Alternativas serão geradas pelo JavaScript -->
+      </div>
+    </div>
+    <div id="status">
+      <p id="turno">Vez do Jogador 1</p>
+      <p id="posicao">Posição: 0</p>
+    </div>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

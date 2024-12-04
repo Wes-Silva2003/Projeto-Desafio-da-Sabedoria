@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#caf0f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+div.roulette .container {
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    border-radius: 50%;
+    border: 15px solid black;
+    position: relative;
+    overflow: hidden;
+    transition: 5s;
+}
+
+.container div {
+    height: 50%;
+    width: 200px;
+    position: absolute;
+    clip-path: polygon(100% 0, 50% 100%, 0 0);
+    transform: translateX(-50%);
+    transform-origin: bottom;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #fff;
+    left: 135px;
+}
+
+.container .one {
+    background-color: #00b4d8;
+    font-size: 50px;
+    left: 50%;
+}
+.container .two {
+    background-color: #0077b6;
+    transform: rotate(45deg);
+    font-size: 50px;
+}
+.container .three {
+    background-color: #00b4d8;
+    transform: rotate(90deg);
+    font-size: 50px;
+}
+.container .four {
+    background-color: #0077b6;
+    transform: rotate(135deg);
+    font-size: 50px;
+}
+.container .five {
+    background-color: #00b4d8;
+    transform: rotate(180deg);
+    font-size: 50px;
+}
+.container .six {
+    background-color: #0077b6;
+    transform: rotate(225deg);
+    font-size: 50px;
+}
+.container .seven {
+    background-color: #00b4d8;
+    transform: rotate(270deg);
+    font-size: 50px;
+}
+.container .eight {
+    background-color: #0077b6;
+    transform: rotate(315deg);
+    font-size: 50px;
+}
+
+.arrow {
+    position: absolute;
+    top: -15px; /* Aproximado da roleta */
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+}
+
+.arrow::before {
+    content: "\1F817";
+    font-size: 50px;
+}
+
+#spin {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    background-color: black;
+    text-transform: uppercase;
+    border: 8px solid #fff;
+    font-weight: bold;
+    font-size: 20px;
+    color: #e6e6e6;
+    width: 80px;
+    height: 80px;
+    font-family: sans-serif;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+    letter-spacing: 1px;
+}
